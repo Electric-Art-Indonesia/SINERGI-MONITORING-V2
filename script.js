@@ -12,7 +12,7 @@
     const MAX_LIVE_POINTS = 24;
     const STORAGE_KEY = 'powersight_maintenance_v1';
     const COLORS = ['#3578f6', '#15b9d6', '#8667f5', '#fa9a3b'];
-    const MACHINE_NAMES = ['Mesin Produksi A', 'Mesin CNC B', 'Mesin CNC C', 'Mesin Conveyor D'];
+    const MACHINE_NAMES = ['Mesin DMU 8U A', 'Mesin DMU EVO1 B', 'Mesin HELME 800 C', 'Mesin PRODUKSI D'];
     const MACHINE_IDS = ['CH-01', 'CH-02', 'CH-03', 'CH-04'];
     const MACHINE_ICONS = [
       '<svg viewBox="0 0 24 24" fill="none"><rect x="3" y="7" width="18" height="13" rx="2" stroke="currentColor" stroke-width="1.7"/><path d="M7 7V4h10v3M7 12h3m4 0h3M8 16h8" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>',
